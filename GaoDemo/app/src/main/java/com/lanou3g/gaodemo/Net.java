@@ -25,7 +25,6 @@ Created by tliYgTong_刘德强 on 16/8/29.
 */
 
 
-public class NewDB {
-    //数据库
-
+public class Net {
+    //网络数据解析
 }
